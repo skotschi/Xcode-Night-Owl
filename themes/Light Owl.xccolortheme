@@ -111,13 +111,13 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.151329 0.191837 0.7374 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.520448 0.192606 0.714498 1</string>
+		<string>0.223529 0.364706 0.803922 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.67757 0.079777 0.925991 1</string>
+		<string>0.152941 0.192157 0.737255 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.222929 0.36583 0.809074 1</string>
+		<string>0.0823529 0.521569 0.537255 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.222929 0.36583 0.809074 1</string>
+		<string>0.0823529 0.521569 0.537255 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.520448 0.192606 0.714498 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
@@ -127,15 +127,15 @@
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.151329 0.191837 0.7374 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.0821545 0.522876 0.535417 1</string>
+		<string>0.0823529 0.521569 0.537255 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.0821545 0.522876 0.535417 1</string>
+		<string>0.0823529 0.521569 0.537255 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.520448 0.192606 0.714498 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.666667 0.0352941 0.509804 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.192788 0.184828 0.254829 1</string>
+		<string>0.192157 0.184314 0.254902 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.520448 0.192606 0.714498 1</string>
 		<key>xcode.syntax.string</key>
@@ -150,7 +150,7 @@
 		<key>xcode.syntax.character</key>
 		<string>VictorMono-Medium - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>VictorMono-Medium - 12.0</string>
+		<string>VictorMono-ItalicMedium - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
 		<string>VictorMono-Medium - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
@@ -180,7 +180,7 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>VictorMono-Medium - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>VictorMono-Medium - 12.0</string>
+		<string>VictorMono-Bold - 12.0</string>
 		<key>xcode.syntax.number</key>
 		<string>VictorMono-Medium - 12.0</string>
 		<key>xcode.syntax.plain</key>

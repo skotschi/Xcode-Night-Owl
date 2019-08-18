@@ -16,10 +16,18 @@ This is my own slightly customized version of [Sarah Drasner’s](https://github
 
 ## Screenshots
 
-### Night Owl
+#### Night Owl
 
-![Night Owl Demo](Demo_dark.png)
+![Night Owl Demo](Sample_NightOwl.png)
 
-### Light Owl
+#### Night Owl Vibrant
 
-![Light Owl Demo](Demo_light.png)
+![Night Owl Vibrant Demo](Sample_NightOwlVibrant.png)
+
+#### Light Owl
+
+![Light Owl Demo](Sample_LightOwl.png)
+
+#### Light Owl Vibrant
+
+![Light Owl Vibrant Demo](Sample_LightOwlVibrant.png)
